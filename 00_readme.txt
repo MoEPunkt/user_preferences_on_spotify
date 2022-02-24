@@ -1,5 +1,6 @@
 Welcome to the GitHub Repository for the Data Science Project "(International) User Preferences on Spotify".
-Here, you find all the relevant datasets and R-Scripts that we used for developing the application.
+Here, you find all the relevant R-Scripts and samples of relevant datasets that we used for developing the application.
+The complete datasets are to be found on our OneDrive repository: https://bwedu-my.sharepoint.com/personal/adrian_zarbock_bwedu_de/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fadrian%5Fzarbock%5Fbwedu%5Fde%2FDocuments%2FData%20Science%20Project%20%2D%20Spotify
 
 The scripts server.R, ui.R and global.R are the scripts that set up the application. They have to be located in the same repository to ensure that they interact properly.
 
